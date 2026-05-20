@@ -252,7 +252,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or inquiries, feel free to reach out:
 
-- **GitHub:** [mohamedmagdy2301](https://github.com/mohamedmagdy2301)
-- **Email:** [mohammedmego15@gmail.com](mohammedmego15@gmail.com)
-
+- **GitHub:** [muhammadabueid](https://github.com/muhammadabueid)
+- **Email:** mohamedaboeid07@gmail.com
 
